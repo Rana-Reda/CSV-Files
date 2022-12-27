@@ -1,10 +1,5 @@
 
-/**
- * Write a description of MaxCSV here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 import edu.duke.*;
 import org.apache.commons.csv.*;
 import java.io.*;
